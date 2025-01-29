@@ -1,8 +1,7 @@
 # Домашнее задание к занятию "11. RxJS"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/dq30a5dao2aelf0v?svg=true)](https://ci.appveyor.com/project/ArtKonX/ahj-homeworks-rxjs-frontend)
 
-[Ссылка на Github Pages](https://artkonx.github.io/ahj-homeworks-rxjs-frontend/)
+![CI](https://github.com/AleksanderMikhaylin/ahj_homeworks-env/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
