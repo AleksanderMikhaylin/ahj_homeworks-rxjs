@@ -1,7 +1,7 @@
 # Домашнее задание к занятию "11. RxJS"
 
 
-![CI](https://github.com/AleksanderMikhaylin/ahj_homeworks-env/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/AleksanderMikhaylin/ahj_homeworks-rxjs/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
