@@ -1,8 +1,5 @@
 # Домашнее задание к занятию "11. RxJS"
 
-
-![CI](https://github.com/AleksanderMikhaylin/ahj_homeworks-rxjs/actions/workflows/web.yml/badge.svg)
-
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
